@@ -1,0 +1,9 @@
+Privat vs Public
+Que es float?
+Que es SerializeField?
+
+
+
+Que es clone?
+Que es un fork?
+
