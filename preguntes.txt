@@ -7,3 +7,21 @@ Que es SerializeField?
 Que es clone?
 Que es un fork?
 
+
+
+GameObject i escena
+Transform
+Sprite Renderer
+Component Script (MonoBehaviour)
+Start, Update i Time.deltaTime
+Privat vs Public
+Int, Float, Double
+[SerializeField] i Inspector
+Prefab, Instantiate i Destroy
+Rigidbody 2D
+Colliders 2D
+OnTriggerEnter2D
+Input Action (asset)
+InputActionReference
+Text Mesh Pro
+Layers
